@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer and Student
 ------------------------------
 
-I am currently in my Junior Year studying Computer Science at George Mason University. I am enrolled in the Honors College at GMU, and have had a lot of fun learning more about software development.
+I am a recent graduate from George Mason University, where I received my BS in Computer Science cum laude. I was enrolled in the Honors College at GMU, and have had a lot of fun learning more about software development.
 
 * 🌍  I'm based in Virginia
 * 🚀  I'm currently working on [BotBot](http://github.com/jacobasmithwork/BotBotPublic.git)
